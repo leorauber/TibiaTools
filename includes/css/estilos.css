@@ -1,0 +1,41 @@
+h1#abertura{
+    font-size: 40px;
+}
+
+div#container{
+    background-color: #222222; /*preto*/
+    width: 100%;
+    height: 100%;
+}
+body,html{
+    background-color: #222222; /*preto*/
+    margin:0;
+    width:100%;
+}
+h1#bye{
+    font-size: 60px;
+}
+div#buttonStyle{
+    border: solid;
+    border-width: 7px;
+    border-radius: 20px;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+div#body{
+    text-align: center;
+    background-color: #EEEEEE; /*//cinza*/
+    height: 100%;
+}
+
+#resultsPlayervsPlayer{
+    border: solid;
+    border-width: 7px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    height: 500px;
+    margin-bottom: 20px;
+    
+}

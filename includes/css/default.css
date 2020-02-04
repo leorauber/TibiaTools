@@ -1,0 +1,40 @@
+body {
+	background-color: #F7F7F7;
+}
+#menu {
+	background-color: #22282e;
+	height: 50px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+#menuGeneral {
+	background-color: #22282e;
+	height: 50px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+}
+.menuOption{
+	padding: 10px 0px;
+	float: left;
+}
+.menuOption:hover{
+	background-color: #82888e;
+	height: 100%;
+}
+a:link, a:visited, a:hover, a:active {
+	color: white; 
+	background-color: transparent; 
+	text-decoration: none;
+}
+#nameChar {
+	margin-bottom: 10px;
+}
+#log {
+   resize: none;
+}
+.activeMenu {
+	background-color: #444F5A;
+}
